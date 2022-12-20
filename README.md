@@ -1,1 +1,1 @@
-# levi-react-pdf
+# levi/react-pdf
